@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-<img src="./img/alamgir02.jpg" alt="Alamgir" width="200px">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alamgir1973&layout=compact&hide=html,css&langs_count=10&theme=dark)
 
 ## About Me
 
